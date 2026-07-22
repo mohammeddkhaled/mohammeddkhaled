@@ -21,7 +21,7 @@ Passionate about building scalable, production-ready web applications that solve
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://mohammedkhaled-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
